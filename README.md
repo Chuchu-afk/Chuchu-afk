@@ -33,8 +33,8 @@
 ### 🧪 IT Infrastructure Home Lab
 ### OPNsense Firewall
 Configured a robust firewall with VLANs, ACLs, NAT, and inter-VLAN routing to create a secure, segmented network environment.
-![OPNSense Login](URL_FOR_YOUR_LOGIN_IMAGE.png)
-![OPNSense Dashboard](URL_FOR_YOUR_DASH_IMAGE.jpg)
+![Dashboard](images/dash.png)
+![Login](images/login.png)
 ### OpenVPN Server
 Deployed and configured an OpenVPN server, enabling full-tunnel remote access across segmented networks for secure administration and connectivity.
 
