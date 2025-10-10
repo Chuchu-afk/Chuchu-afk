@@ -31,11 +31,12 @@
 
 ## 🔧 Projects
 ### 🧪 IT Infrastructure Home Lab
-Built a virtualized Proxmox lab including:
-- **pfSense Firewall**: With VLANs, ACLs, NAT, and inter-VLAN routing.  
-- **Tailscale VPN + Headscale**: Enabling full tunnel access across segmented networks.  
-- **Cybersecurity Stack**: Security Onion, Suricata, TheHive, Wazuh, Cortex, Caldera.  
-- **Monitoring Stack**: Zabbix, Graylog, Elastic Stack, Pi-hole.
+### OPNsense Firewall
+Configured a robust firewall with VLANs, ACLs, NAT, and inter-VLAN routing to create a secure, segmented network environment.
+![OPNSense Login](URL_FOR_YOUR_LOGIN_IMAGE.png)
+![OPNSense Dashboard](URL_FOR_YOUR_DASH_IMAGE.jpg)
+### OpenVPN Server
+Deployed and configured an OpenVPN server, enabling full-tunnel remote access across segmented networks for secure administration and connectivity.
 
 ---
 
@@ -43,7 +44,6 @@ Built a virtualized Proxmox lab including:
 - CompTIA Security+  
 - CompTIA Network+  
 - ITIL Foundation v4  
-- Public Trust Clearance
 
 ---
 
