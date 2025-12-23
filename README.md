@@ -1,8 +1,8 @@
 ## 👋 Hey there!
 
-I’m **Chinedu**, a **SOC Analyst** based in the United States with a strong interest in how networks, systems, and security intersect in real-world environments.
+I’m **Chinedu**, a **SOC Analyst** based in the United States with a strong focus on **security monitoring, detection, and incident analysis** across modern networked environments.
 
-I’m always learning and experimenting with new tools and technologies to better understand how modern infrastructure is built, monitored, and secured. My core strengths include **network configuration**, **infrastructure monitoring**, and **network security**, with hands-on experience using tools like **Zabbix**, **AWS**, and **Wireshark** to analyze traffic, identify issues, and support reliable operations.
+I continuously learn and experiment with security tooling to better understand how threats manifest in real infrastructure. My strengths lie in **log analysis**, **network visibility**, and **alert investigation**, with hands-on experience using tools such as **SIEM platforms**, **AWS CloudWatch**, and **Vulnerability scanners** to detect anomalous behavior, investigate security events, and support incident response operations.
 
 Beyond day-to-day operations, I build practical projects to explore my broader skill set—from segmented network designs and secure remote access to monitoring and alerting pipelines. Each project is supported with clear documentation that explains configuration choices, security considerations, and lessons learned.
 
