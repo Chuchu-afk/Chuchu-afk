@@ -66,6 +66,9 @@ Beyond day-to-day operations, I build practical projects to explore my broader s
 ---
 
 ### 📜 Certifications
-- CompTIA Security+  
-- CompTIA Network+  
+- CompTIA Security+
+- CompTIA Network+
 
+---
+
+*Last updated: January 2026*
